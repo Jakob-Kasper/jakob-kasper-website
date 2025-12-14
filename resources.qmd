@@ -1,0 +1,26 @@
+---
+title: "Resources"
+---
+
+## Data Visualization Workshop (ggplot2)
+
+<div class="resource-download">
+  <a href="datavis.pdf" download class="resource-button">Download Slides (PDF)</a>
+</div>
+
+<iframe 
+  src="datavis.pdf#zoom=130&view=FitH"
+  class="resource-frame">
+</iframe> 
+
+Workshop on data visualization in the social and cognitive sciences with [Olaf Borghi](https://olafborghi.com/) at the IP-PAD network training day in Amsterdam in November 2025.
+
+## Brief Measures of Affective Polarization — Shiny App
+
+This interactive tool lets you explore combinations of political parties to build brief, valid measures of affective polarization in multiparty systems using CSES Wave 5 data.
+
+[**Explore the Shiny App**](https://jakob-kasper.shinyapps.io/Brief_AP_Measures_Kasper_et_al_2025/)
+
+More information: **Kasper, J.**, Schumacher, G., & Bakker, B. N. (2025). *Establishing the construct and predictive validity of brief measures of affective polarization.* European Journal of Political Research.[link](https://doi.org/10.1111/1475-6765.70022)
+
+

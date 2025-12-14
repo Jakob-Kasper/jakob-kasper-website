@@ -1,0 +1,14 @@
+---
+title: ""
+---
+
+# Curriculum Vitae
+
+<div class="cv-download">
+  <a href="cv.pdf" download class="cv-button">Download CV (PDF)</a>
+</div>
+
+<iframe 
+  src="cv.pdf#zoom=50&view=FitH"
+  class="cv-frame">
+</iframe>

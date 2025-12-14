@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Jakob Kasper"   # your name stays here; it links to the home page automatically
+  navbar:
+    left:
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Resources"
+        href: resources.qmd
+    right:
+      - icon: envelope
+        href: mailto:j.kasper@uva.nl
+        aria-label: "Email"
+      - icon: cloud
+        href: https://bsky.app/profile/jakobkas.bsky.social
+        aria-label: "Bluesky"
+      - icon: journal-text
+        href: https://scholar.google.com/citations?user=B0EWNtMAAAAJ&hl=nl&oi=ao
+        aria-label: "Google Scholar"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jakob-kasper-890914184/
+        aria-label: "LinkedIn"
+  search: false   
+
+format:
+  html:
+    theme: default
+    css: style.css
+    toc: false
+
