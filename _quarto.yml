@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs   
 
 website:
-  title: "Jakob Kasper"   # your name stays here; it links to the home page automatically
+  title: "Jakob Kasper"
   navbar:
     left:
       - text: "CV"
@@ -24,11 +25,10 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/jakob-kasper-890914184/
         aria-label: "LinkedIn"
-  search: false   
+  search: false
 
 format:
   html:
     theme: default
     css: style.css
     toc: false
-
