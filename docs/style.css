@@ -1,0 +1,239 @@
+/* ---------- Base layout & typography ---------- */
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #f5f5f7;  /* soft light grey */
+  color: #111111;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.6;
+}
+
+/* Center the main content in a "card" */
+main.content,
+.page-columns {
+  max-width: 1000px;
+  margin: 3.5rem auto 4rem;
+  padding: 0 1.4rem 3rem;   /* slightly less side padding */
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.04);
+}
+
+/* Tweak headings for a calmer hierarchy */
+h1, .h1 {
+  font-size: 2.1rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.2rem;
+}
+
+h2, .h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+h3, .h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
+
+/* Paragraph spacing */
+p {
+  margin: 0 0 0.9rem 0;
+}
+
+/* Lists a bit tighter and aligned */
+ul, ol {
+  padding-left: 1.2rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0.9rem;
+}
+
+/* ---------- Navbar ---------- */
+
+.navbar {
+  background-color: #2F5D50 !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
+}
+
+/* Brand (your name) */
+.navbar .navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+/* Links in navbar */
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .nav-link:visited {
+  color: #f5f5f5 !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+  color: #d6d6d6 !important;
+}
+
+/* Icons on the right side: size + spacing */
+.navbar .bi {
+  font-size: 1.2rem;
+  vertical-align: middle;
+}
+
+.navbar .nav-item + .nav-item {
+  margin-left: 0.55rem;
+}
+
+/* ---------- Links in content ---------- */
+
+a {
+  color: #111111;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  font-weight: normal;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;   
+}
+
+
+/* Don’t underline nav links */
+.navbar a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+/* ---------- Misc cleanup ---------- */
+
+/* Hide big title block Quarto adds at top of pages */
+.quarto-title-block {
+  display: none;
+}
+
+/* Softer horizontal rules */
+hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  margin: 2.5rem 0 1.5rem;
+}
+
+/* Code blocks & inline code */
+code {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.9em;
+  background: #f2f2f4;
+  padding: 0.1rem 0.25rem;
+  border-radius: 4px;
+}
+
+pre code {
+  display: block;
+  padding: 0.9rem 1rem;
+  border-radius: 8px;
+}
+
+/* ---------- Floating Headshot (Rectangular Portrait) ---------- */
+
+img.headshot {
+  float: right !important;
+  width: 200px !important;        /* slightly larger for rectangle */
+  height: auto !important;        /* maintain natural aspect ratio */
+  border-radius: 12px;            /* subtle rounded edges */
+  object-fit: cover;
+  margin: 0 0 1rem 1.7rem;        /* spacing around the image */
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* Mobile-friendly version */
+@media (max-width: 768px) {
+  img.headshot {
+    float: none !important;
+    display: block;
+    margin: 1.5rem auto 1.5rem;
+    width: 180px !important;     /* bigger on mobile since it’s centered */
+    height: auto !important;
+  }
+}
+
+/* ---------- CV page styling ---------- */
+
+.cv-download {
+  margin: 0 0 1.5rem 0;
+}
+
+/* Big, obvious download button */
+.cv-button {
+  display: inline-block;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  padding: 0.45rem 1.2rem;
+  background-color: #000000;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.cv-button:hover {
+  text-decoration: none;
+  background-color: #222222;
+}
+
+/* Make the PDF viewer actually fill the content width */
+.page-columns .cv-frame,
+main .cv-frame,
+.cv-frame {
+  display: block;
+  width: 700px;
+  height: 1300px;
+  margin: 0 auto;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.06);
+}
+
+/* ---------- Resources PDF styling ---------- */
+
+.resource-download {
+  margin: 0 0 1.5rem 0;
+}
+
+.resource-button {
+  display: inline-block;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  padding: 0.45rem 1.2rem;
+  background-color: #000000;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.resource-button:hover {
+  background-color: #222222;
+  text-decoration: none;
+}
+
+.resource-frame {
+  display: block;
+  width: 700px;        /* adjust to taste: 700 / 800 / 900 */
+  height: 450px;      /* tall enough to avoid excessive scrolling */
+  margin: 0 auto;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.06);
+}
+
