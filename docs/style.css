@@ -196,8 +196,9 @@ img.headshot {
 main .cv-frame,
 .cv-frame {
   display: block;
-  width: 700px;
-  height: 1300px;
+  width: 100%;           /* take full width of the content column */
+  max-width: 800px;      /* but don’t get too huge on big screens */
+  height: 1200px;        /* desktop height */
   margin: 0 auto;
   border: 1px solid #e5e5e5;
   border-radius: 12px;
@@ -229,11 +230,23 @@ main .cv-frame,
 
 .resource-frame {
   display: block;
-  width: 700px;        /* adjust to taste: 700 / 800 / 900 */
-  height: 450px;      /* tall enough to avoid excessive scrolling */
+  width: 100%;
+  max-width: 800px;
+  height: 600px;       /* desktop height */
   margin: 0 auto;
   border: 1px solid #e5e5e5;
   border-radius: 12px;
   box-shadow: 0 6px 24px rgba(0,0,0,0.06);
+}
+
+/* Make PDF iframes shorter on small screens */
+@media (max-width: 768px) {
+  .cv-frame {
+    height: 600px;
+  }
+
+  .resource-frame {
+    height: 400px;
+  }
 }
 
