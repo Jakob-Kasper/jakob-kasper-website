@@ -12,6 +12,8 @@ website:
         href: research.qmd
       - text: "Resources"
         href: resources.qmd
+      - text: "Media/Dissemination"
+        href: media.qmd
     right:
       - icon: envelope
         href: mailto:j.kasper@uva.nl
