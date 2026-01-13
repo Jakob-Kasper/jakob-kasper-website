@@ -89,8 +89,21 @@ ul, ol {
   vertical-align: middle;
 }
 
-.navbar .nav-item + .nav-item {
-  margin-left: 0.55rem;
+@media (min-width: 992px) {
+  .navbar .nav-item + .nav-item {
+    margin-left: 0.55rem;
+  }
+}
+
+/* Clean vertical alignment for mobile menu */
+@media (max-width: 991.98px) {
+  .navbar .nav-item + .nav-item {
+    margin-left: 0;
+  }
+
+  .navbar .navbar-nav .nav-item {
+    margin: 0.15rem 0;
+  }
 }
 
 /* ---------- Links in content ---------- */
@@ -194,15 +207,19 @@ img.headshot {
 /* Make the PDF viewer actually fill the content width */
 .page-columns .cv-frame,
 main .cv-frame,
-.cv-frame {
+.cv-frame{
   display: block;
-  width: 100%;           /* take full width of the content column */
-  max-width: 800px;      /* but don’t get too huge on big screens */
-  height: 1200px;        /* desktop height */
-  margin: 0 auto;
+  width: 100%;
+  height: 85vh;
   border: 1px solid #e5e5e5;
   border-radius: 12px;
   box-shadow: 0 6px 24px rgba(0,0,0,0.06);
+}
+
+@media (max-width: 768px) {
+  .cv-frame {
+    height: 70vh;
+  }
 }
 
 /* ---------- Resources PDF styling ---------- */
@@ -238,15 +255,3 @@ main .cv-frame,
   border-radius: 12px;
   box-shadow: 0 6px 24px rgba(0,0,0,0.06);
 }
-
-/* Make PDF iframes shorter on small screens */
-@media (max-width: 768px) {
-  .cv-frame {
-    height: 600px;
-  }
-
-  .resource-frame {
-    height: 400px;
-  }
-}
-
