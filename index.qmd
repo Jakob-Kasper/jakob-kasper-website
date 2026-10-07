@@ -20,6 +20,10 @@ Before my PhD, I earned a Bachelor's and Master's degree in Psychology at the Un
 ## Selected publications
 
 ::: {.pubs}
+- Schumacher, G., **Kasper, J.**, Van der Velden, M. A. C. G., Zaslove, M., Rooduijn, M., & Bakker, B. N. (under review). *Strengthening democracy with interventions: A conceptual replication of a megastudy in the Netherlands.* [Preprint](https://doi.org/10.31234/osf.io/g2zfc_v1){.pub-link}
+
+- **Kasper, J.**, Schumacher, G., te Brinke, L., Crone, E., & Bakker, B. N. (under review). *Coming of age in polarized times: Affective polarization across adolescence.* [Preprint](https://doi.org/10.31234/osf.io/6hazd_v1){.pub-link}
+
 - **Kasper, J.**, Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). *Beyond valence: Arousal as a core dimension of affective polarization.* [Preprint](https://doi.org/10.31234/osf.io/5dfbj_v1){.pub-link}
 
 - **Kasper, J.**, Schumacher, G., & Bakker, B. N. (2025). *Establishing the construct and predictive validity of brief measures of affective polarization.* European Journal of Political Research. [DOI](https://doi.org/10.1111/1475-6765.70022){.pub-link}
