@@ -1,21 +1,30 @@
 ---
-title: ""
+title: "Jakob Kasper"
+pagetitle: "Jakob Kasper"
 ---
 
-# **Jakob Kasper**, MSc Psychology
+::: {.hero}
+# Jakob Kasper
 
-<img src="jakob.jpg" class="headshot"/>
+[PhD researcher in political psychology, University of Amsterdam]{.lede}
+:::
 
-I am a third-year **PhD candidate** at the [University of Amsterdam](https://www.uva.nl/profiel/k/a/j.kasper/j.kasper.html) (Amsterdam School of Communication Research) affiliated with the doctoral network [Interdisciplinary Perspectives on the Politics of Adolescence and Democracy](https://www.ippad.eu/), the [Hot Politics Lab](https://www.hotpolitics.eu/), and the [Center for Politics and Communication](https://www.polcomm.org/about-2/).
+<img src="jakob.jpg" class="headshot" alt="Portrait of Jakob Kasper"/>
 
-My research focuses on ***affective polarization***. I explore how it can be measured within ***multi-party systems*** by examining large and ideologically diverse political groups. I also aim to connect political science’s understanding of affective polarization with psychological ***theories of affect***, refining both theoretical frameworks and measurement tools to more accurately capture its ***affective nature***. Additionally, I investigate how affective polarization develops during ***adolescence***, seeking to understand its origins and address concerns about the possibility of increasing polarization among younger generations.
+I am a **PhD candidate** at the [University of Amsterdam](https://www.uva.nl/profiel/k/a/j.kasper/j.kasper.html) (Amsterdam School of Communication Research). My PhD is part of the MSCA doctoral network [Interdisciplinary Perspectives on the Politics of Adolescence and Democracy](https://www.ippad.eu/) (IP-PAD), and I am affiliated with the [Hot Politics Lab](https://www.hotpolitics.eu/) and the [Center for Politics and Communication](https://www.polcomm.org/about-2/).
 
-Before my PhD, I received a Bachelor’s and Master’s degree in Psychology from the University of Heidelberg (Germany) and spent one year as a graduate exchange student at Cornell University (USA).
+My research focuses mainly on **affective polarization**. I explore how it can be measured within **multiparty systems**, and I aim to connect political science's understanding of affective polarization with psychological **theories of affect**, refining both theoretical frameworks and measurement tools to better capture its affective nature. I also investigate how affective polarization develops during **adolescence**, seeking to understand its origins and to address concerns about increasing polarization among younger generations. I am also interested in the implications of (affective) polarization for **political behavior and democratic attitudes**, as well as efforts to reduce it. 
 
-## Selected Publications
+Before my PhD, I earned a Bachelor's and Master's degree in Psychology at the University of Heidelberg (Germany) and spent a year as a graduate exchange student at Cornell University (USA).
 
--   **Kasper, J.**, Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). *Beyond valence: Arousal as a core dimension of affective polarization.* OSF Preprint. [link](https://doi.org/10.31234/osf.io/5dfbj_v1)
+## Selected publications
 
--   **Kasper, J.**, Schumacher, G., & Bakker, B. N. (2025). *Establishing the construct and predictive validity of brief measures of affective polarization.* European Journal of Political Research. [link](https://doi.org/10.1111/1475-6765.70022)
+::: {.pubs}
+- **Kasper, J.**, Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). *Beyond valence: Arousal as a core dimension of affective polarization.* [Preprint](https://doi.org/10.31234/osf.io/5dfbj_v1){.pub-link}
 
--   **Kasper, J.**, & Gilovich, T. (2025). *Do people prefer to share political information that boosts their ingroup or derogates the outgroup?* Journal of Experimental Psychology: General. [link](https://doi.org/10.1037/xge0001683)
+- **Kasper, J.**, Schumacher, G., & Bakker, B. N. (2025). *Establishing the construct and predictive validity of brief measures of affective polarization.* European Journal of Political Research. [DOI](https://doi.org/10.1111/1475-6765.70022){.pub-link}
+
+- **Kasper, J.**, & Gilovich, T. (2025). *Do people prefer to share political information that boosts their ingroup or derogates the outgroup?* Journal of Experimental Psychology: General. [DOI](https://doi.org/10.1037/xge0001683){.pub-link}
+:::
+
+[All publications](research.qmd){.more-link}

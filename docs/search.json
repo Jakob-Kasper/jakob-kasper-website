@@ -1,72 +1,72 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
+    "objectID": "resources.html#brief-ap-app",
+    "href": "resources.html#brief-ap-app",
     "title": "Resources",
-    "section": "",
-    "text": "Download Slides (PDF)\n\n\n\nWorkshop on data visualization in the social and cognitive sciences with Olaf Borghi at the IP-PAD network training day in Amsterdam in November 2025."
+    "section": "Brief measures of affective polarization: Shiny app",
+    "text": "Brief measures of affective polarization: Shiny app\nAn interactive tool for choosing combinations of political parties that yield brief, valid measures of affective polarization in multi-party systems, based on CSES Module 5 data. It accompanies Kasper, Schumacher, & Bakker (2025) in the European Journal of Political Research (DOI).\nOpen the Shiny app"
   },
   {
     "objectID": "resources.html#data-visualization-workshop-ggplot2",
     "href": "resources.html#data-visualization-workshop-ggplot2",
     "title": "Resources",
-    "section": "",
-    "text": "Download Slides (PDF)\n\n\n\nWorkshop on data visualization in the social and cognitive sciences with Olaf Borghi at the IP-PAD network training day in Amsterdam in November 2025."
+    "section": "Data visualization workshop (ggplot2)",
+    "text": "Data visualization workshop (ggplot2)\nSlides from a workshop on data visualization in the social and cognitive sciences, taught with Olaf Borghi at the IP-PAD network training day in Amsterdam, November 2025. It covers the plots that come up most in our fields, an introduction to ggplot2, and visualization best practices.\nDownload slides (PDF)"
   },
   {
-    "objectID": "resources.html#brief-measures-of-affective-polarization-shiny-app",
-    "href": "resources.html#brief-measures-of-affective-polarization-shiny-app",
-    "title": "Resources",
-    "section": "Brief Measures of Affective Polarization — Shiny App",
-    "text": "Brief Measures of Affective Polarization — Shiny App\nThis interactive tool lets you explore combinations of political parties to build brief, valid measures of affective polarization in multiparty systems using CSES Wave 5 data.\nExplore the Shiny App\nMore information: Kasper, J., Schumacher, G., & Bakker, B. N. (2025). Establishing the construct and predictive validity of brief measures of affective polarization. European Journal of Political Research.link"
+    "objectID": "media.html#section",
+    "href": "media.html#section",
+    "title": "Media & Dissemination",
+    "section": "2026",
+    "text": "2026\n\n\nvan de Wetering, J., Bakker, B. N., van den Bos, W., te Brinke, L., Green, K., van de Groep, S., Kasper, J., Ma, I., Nabben, F., Schumacher, G., Sweijen, S., Toenders, Y., & Crone, E. (2026, March). Jongerenperspectief op polarisatie. Van verdeeldheid naar verbinding. Report\nKasper, J. (2026, January). Politics doesn’t define how most people see themselves. The Inquisitive Mind. Read\nBakker, B. N., & Kasper, J. (2026, January). Stop formatting before the desk reject: A proposal for staged submissions. Blog of Trial and Error. Read"
   },
   {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "Media/Dissemination",
-    "section": "",
-    "text": "Kasper, J.. (2026, January). Politics Doesn’t Define How Most People See Themselves. The Inquisitive Mind. link\nBakker, B. N., & Kasper, J.. (2026, January). Stop Formatting Before the Desk Reject: A Proposal for Staged Submissions. Blog of Trial and Error. link\nBakker, B. N., Kasper, J., & Schumacher, G. (2025, July). Vanaf 16 stemmen? Jongeren is er klaar voor. Algemeen Dagblad. link\nKasper, J., & Gilovich, T. (2025, June). Why do hostile posts go viral when most people prefer more positive communication? SPSP Character & Context Blog. link\nSchumacher, G., Bakker, B. N., Kasper, J., & Zaslove, M. (2024, December). Alarmisme over antidemocratische jongeren is misplaatst. StukRoodVlees. link\nSYNC Lab & Hot Politics Lab (2023, December). Fact Sheet: Hoe denken jongeren over politiek? link to fact sheet"
+    "objectID": "media.html#section-1",
+    "href": "media.html#section-1",
+    "title": "Media & Dissemination",
+    "section": "2025",
+    "text": "2025\n\n\nBakker, B. N., Kasper, J., & Schumacher, G. (2025, July). Vanaf 16 jaar stemmen? De jongere is er klaar voor. Algemeen Dagblad. Read\nKasper, J., & Gilovich, T. (2025, June). Why do hostile posts go viral when most people prefer more positive communication? SPSP Character & Context Blog. Read"
   },
   {
-    "objectID": "media.html#media-and-dissemination",
-    "href": "media.html#media-and-dissemination",
-    "title": "Media/Dissemination",
-    "section": "",
-    "text": "Kasper, J.. (2026, January). Politics Doesn’t Define How Most People See Themselves. The Inquisitive Mind. link\nBakker, B. N., & Kasper, J.. (2026, January). Stop Formatting Before the Desk Reject: A Proposal for Staged Submissions. Blog of Trial and Error. link\nBakker, B. N., Kasper, J., & Schumacher, G. (2025, July). Vanaf 16 stemmen? Jongeren is er klaar voor. Algemeen Dagblad. link\nKasper, J., & Gilovich, T. (2025, June). Why do hostile posts go viral when most people prefer more positive communication? SPSP Character & Context Blog. link\nSchumacher, G., Bakker, B. N., Kasper, J., & Zaslove, M. (2024, December). Alarmisme over antidemocratische jongeren is misplaatst. StukRoodVlees. link\nSYNC Lab & Hot Politics Lab (2023, December). Fact Sheet: Hoe denken jongeren over politiek? link to fact sheet"
+    "objectID": "media.html#section-2",
+    "href": "media.html#section-2",
+    "title": "Media & Dissemination",
+    "section": "2024",
+    "text": "2024\n\n\nSchumacher, G., Bakker, B. N., Kasper, J., & Zaslove, M. (2024, December). Alarmisme over antidemocratische jongeren is misplaatst. StukRoodVlees. Read"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Curriculum Vitae\n\nDownload CV (PDF)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jakob Kasper, MSc Psychology",
-    "section": "",
-    "text": "I am a third-year PhD candidate at the University of Amsterdam (Amsterdam School of Communication Research) affiliated with the doctoral network Interdisciplinary Perspectives on the Politics of Adolescence and Democracy, the Hot Politics Lab, and the Center for Politics and Communication.\nMy research focuses on affective polarization. I explore how it can be measured within multi-party systems by examining large and ideologically diverse political groups. I also aim to connect political science’s understanding of affective polarization with psychological theories of affect, refining both theoretical frameworks and measurement tools to more accurately capture its affective nature. Additionally, I investigate how affective polarization develops during adolescence, seeking to understand its origins and address concerns about the possibility of increasing polarization among younger generations.\nBefore my PhD, I received a Bachelor’s and Master’s degree in Psychology from the University of Heidelberg (Germany) and spent one year as a graduate exchange student at Cornell University (USA).\n\n\n\nKasper, J., Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). Beyond valence: Arousal as a core dimension of affective polarization. OSF Preprint. link\nKasper, J., Schumacher, G., & Bakker, B. N. (2025). Establishing the construct and predictive validity of brief measures of affective polarization. European Journal of Political Research. link\nKasper, J., & Gilovich, T. (2025). Do people prefer to share political information that boosts their ingroup or derogates the outgroup? Journal of Experimental Psychology: General. link"
+    "objectID": "media.html#section-3",
+    "href": "media.html#section-3",
+    "title": "Media & Dissemination",
+    "section": "2023",
+    "text": "2023\n\n\nSYNC Lab & Hot Politics Lab (2023, December). Fact sheet: Hoe denken jongeren over politiek? Fact sheet"
   },
   {
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
-    "title": "Jakob Kasper, MSc Psychology",
-    "section": "",
-    "text": "Kasper, J., Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). Beyond valence: Arousal as a core dimension of affective polarization. OSF Preprint. link\nKasper, J., Schumacher, G., & Bakker, B. N. (2025). Establishing the construct and predictive validity of brief measures of affective polarization. European Journal of Political Research. link\nKasper, J., & Gilovich, T. (2025). Do people prefer to share political information that boosts their ingroup or derogates the outgroup? Journal of Experimental Psychology: General. link"
+    "title": "Jakob Kasper",
+    "section": "Selected publications",
+    "text": "Selected publications\n\n\nKasper, J., Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). Beyond valence: Arousal as a core dimension of affective polarization. Preprint\nKasper, J., Schumacher, G., & Bakker, B. N. (2025). Establishing the construct and predictive validity of brief measures of affective polarization. European Journal of Political Research. DOI\nKasper, J., & Gilovich, T. (2025). Do people prefer to share political information that boosts their ingroup or derogates the outgroup? Journal of Experimental Psychology: General. DOI\n\n\nAll publications"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Kasper, J., Lee, R. T., Pennycook, G., Binnendyk, J., & Sezer, O. (in prep). People overestimate how much others would support them getting “cancelled” over speech.\nKasper, J., Schumacher, G., ten Brinke, L., Crone, E., & Bakker, B. N. (in prep). The development, level, and malleability of adolescent affective polarization.\n\n\n\n\n\nKasper, J., Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). Beyond valence: Arousal as a core dimension of affective polarization. OSF Preprint.\nlink\n\n\n\n\n\nKasper, J., Schumacher, G., & Bakker, B. N. (2025). Establishing the construct and predictive validity of brief measures of affective polarization. European Journal of Political Research.\nlink\nLaffineur, C., Kasper, J., te Brinke, L., Bakker, B. N., & Schumacher, G. (2025). Political interest, activism, and affective polarization: Dutch adolescents and adults are not that different. Tijdschrift voor Communicatiewetenschap.\nlink\nKasper, J., & Gilovich, T. (2025). Do people prefer to share political information that boosts their ingroup or derogates the outgroup? Journal of Experimental Psychology: General.\nlink\nKasper, J., & Bakker, B. N. (2025). Alexa Bankert. When politics becomes personal: The effect of partisan identity on anti-democratic behavior. Public Opinion Quarterly.\nlink\nKasper, J., Fiedler, K., Kutzner, F., & Harris, C. (2023). On the role of exploitation and exploration strategies in the maintenance of cognitive biases: Beyond the pursuit of instrumental rewards. Memory & Cognition. link"
+    "objectID": "research.html#peer-reviewed-publications",
+    "href": "research.html#peer-reviewed-publications",
+    "title": "Research",
+    "section": "Peer-reviewed publications",
+    "text": "Peer-reviewed publications\n\n\nKasper, J., Schumacher, G., & Bakker, B. N. (2025). Establishing the construct and predictive validity of brief measures of affective polarization. European Journal of Political Research. DOI Shiny app\nLaffineur, C., Kasper, J., te Brinke, L., Bakker, B. N., & Schumacher, G. (2025). Political interest, activism, and affective polarization: Dutch adolescents and adults are not that different. Tijdschrift voor Communicatiewetenschap. DOI\nKasper, J., & Gilovich, T. (2025). Do people prefer to share political information that boosts their ingroup or derogates the outgroup? Journal of Experimental Psychology: General. DOI\nKasper, J., & Bakker, B. N. (2025). Book review of Alexa Bankert, When politics becomes personal: The effect of partisan identity on anti-democratic behavior. Public Opinion Quarterly. DOI\nKasper, J., Fiedler, K., Kutzner, F., & Harris, C. (2023). On the role of exploitation and exploration strategies in the maintenance of cognitive biases: Beyond the pursuit of instrumental rewards. Memory & Cognition. DOI"
   },
   {
-    "objectID": "research.html#scientific-publications",
-    "href": "research.html#scientific-publications",
-    "title": "Publications",
-    "section": "",
-    "text": "Kasper, J., Lee, R. T., Pennycook, G., Binnendyk, J., & Sezer, O. (in prep). People overestimate how much others would support them getting “cancelled” over speech.\nKasper, J., Schumacher, G., ten Brinke, L., Crone, E., & Bakker, B. N. (in prep). The development, level, and malleability of adolescent affective polarization.\n\n\n\n\n\nKasper, J., Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). Beyond valence: Arousal as a core dimension of affective polarization. OSF Preprint.\nlink\n\n\n\n\n\nKasper, J., Schumacher, G., & Bakker, B. N. (2025). Establishing the construct and predictive validity of brief measures of affective polarization. European Journal of Political Research.\nlink\nLaffineur, C., Kasper, J., te Brinke, L., Bakker, B. N., & Schumacher, G. (2025). Political interest, activism, and affective polarization: Dutch adolescents and adults are not that different. Tijdschrift voor Communicatiewetenschap.\nlink\nKasper, J., & Gilovich, T. (2025). Do people prefer to share political information that boosts their ingroup or derogates the outgroup? Journal of Experimental Psychology: General.\nlink\nKasper, J., & Bakker, B. N. (2025). Alexa Bankert. When politics becomes personal: The effect of partisan identity on anti-democratic behavior. Public Opinion Quarterly.\nlink\nKasper, J., Fiedler, K., Kutzner, F., & Harris, C. (2023). On the role of exploitation and exploration strategies in the maintenance of cognitive biases: Beyond the pursuit of instrumental rewards. Memory & Cognition. link"
+    "objectID": "research.html#under-review",
+    "href": "research.html#under-review",
+    "title": "Research",
+    "section": "Under review",
+    "text": "Under review\n\n\nKasper, J., Bakker, B. N., Lelkes, Y., & Schumacher, G. (under review). Beyond valence: Arousal as a core dimension of affective polarization. Preprint\nSchumacher, G., Kasper, J., Van der Velden, M. A. C. G., Zaslove, M., Rooduijn, M., & Bakker, B. N. (under review). Strengthening democracy with interventions: A conceptual replication of a megastudy in the Netherlands. Preprint\nKasper, J., Schumacher, G., te Brinke, L., Crone, E., & Bakker, B. N. (under review). Coming of age in polarized times: Affective polarization across adolescence.\nKasper, J., Lee, R. T., Pennycook, G., Binnendyk, J., & Sezer, O. (under review). People overestimate support for “cancellation”."
+  },
+  {
+    "objectID": "research.html#in-preparation",
+    "href": "research.html#in-preparation",
+    "title": "Research",
+    "section": "In preparation",
+    "text": "In preparation\n\n\nvan de Wetering, J., Bakker, B. N., van den Bos, W., te Brinke, L., Green, K., van de Groep, S., Kasper, J., Ma, I., Schumacher, G., Sweijen, S., & Crone, E. (in prep). Youth perspectives on polarization: Concerns and intervention pathways.\nTsakiris, M., Arahal, I., Kasper, J., Kegel, J., Nika, C., & Niraki, M. (in prep). Coming of age at the ballot: Public and expert attitudes towards the ideal voting age."
   }
 ]

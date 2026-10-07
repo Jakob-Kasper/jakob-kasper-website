@@ -1,14 +1,14 @@
 ---
-title: ""
+title: "CV"
+pagetitle: "CV – Jakob Kasper"
 ---
 
-# Curriculum Vitae
+# Curriculum vitae
 
-<div class="cv-download">
-  <a href="cv.pdf" download class="cv-button">Download CV (PDF)</a>
-</div>
+[Download CV (PDF)](cv.pdf){.btn-site download="Jakob_Kasper_CV.pdf"}
 
-<iframe 
-  src="cv.pdf#zoom=50&view=FitH"
-  class="cv-frame">
-</iframe>
+<iframe src="cv.pdf#navpanes=0&view=FitH" class="pdf-frame cv-frame" title="Curriculum vitae of Jakob Kasper (PDF)"></iframe>
+
+::: {.pdf-fallback}
+Your browser may not display PDFs inline. Use the button above to open or download the CV.
+:::

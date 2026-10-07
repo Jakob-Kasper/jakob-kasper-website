@@ -1,26 +1,22 @@
 ---
 title: "Resources"
+pagetitle: "Resources – Jakob Kasper"
 ---
 
-## Data Visualization Workshop (ggplot2)
+# Resources
 
-<div class="resource-download">
-  <a href="datavis.pdf" download class="resource-button">Download Slides (PDF)</a>
-</div>
+Teaching materials and tools from my research, free to use and adapt.
 
-<iframe 
-  src="datavis.pdf#zoom=130&view=FitH"
-  class="resource-frame">
-</iframe> 
+## Brief measures of affective polarization: Shiny app {#brief-ap-app}
 
-Workshop on data visualization in the social and cognitive sciences with [Olaf Borghi](https://olafborghi.com/) at the IP-PAD network training day in Amsterdam in November 2025.
+An interactive tool for choosing combinations of political parties that yield brief, valid measures of affective polarization in multi-party systems, based on CSES Module 5 data. It accompanies Kasper, Schumacher, & Bakker (2025) in the *European Journal of Political Research* ([DOI](https://doi.org/10.1111/1475-6765.70022)).
 
-## Brief Measures of Affective Polarization — Shiny App
+[Open the Shiny app](https://jakob-kasper.shinyapps.io/Brief_AP_Measures_Kasper_et_al_2025/){.btn-site}
 
-This interactive tool lets you explore combinations of political parties to build brief, valid measures of affective polarization in multiparty systems using CSES Wave 5 data.
+## Data visualization workshop (ggplot2)
 
-[**Explore the Shiny App**](https://jakob-kasper.shinyapps.io/Brief_AP_Measures_Kasper_et_al_2025/)
+Slides from a workshop on data visualization in the social and cognitive sciences, taught with [Olaf Borghi](https://olafborghi.com/) at the IP-PAD network training day in Amsterdam, November 2025. It covers the plots that come up most in our fields, an introduction to ggplot2, and visualization best practices.
 
-More information: **Kasper, J.**, Schumacher, G., & Bakker, B. N. (2025). *Establishing the construct and predictive validity of brief measures of affective polarization.* European Journal of Political Research.[link](https://doi.org/10.1111/1475-6765.70022)
+[Download slides (PDF)](datavis.pdf){.btn-site download="Kasper_Borghi_datavis_workshop.pdf"}
 
-
+<iframe src="datavis.pdf#navpanes=0&view=FitH" class="pdf-frame resource-frame" title="Data visualization workshop slides (PDF)"></iframe>

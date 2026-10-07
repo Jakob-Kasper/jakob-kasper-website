@@ -1,9 +1,13 @@
 project:
   type: website
-  output-dir: docs   
+  output-dir: docs
 
 website:
   title: "Jakob Kasper"
+  site-url: https://www.jakobkasper.com
+  description: "Jakob Kasper – PhD researcher in political psychology at the University of Amsterdam, working on affective polarization, its measurement, and its development in adolescence."
+  open-graph: true
+  search: false
   navbar:
     left:
       - text: "CV"
@@ -12,7 +16,7 @@ website:
         href: research.qmd
       - text: "Resources"
         href: resources.qmd
-      - text: "Media/Dissemination"
+      - text: "Media & Dissemination"
         href: media.qmd
     right:
       - icon: envelope
@@ -27,10 +31,18 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/jakob-kasper-890914184/
         aria-label: "LinkedIn"
-  search: false
+  page-footer:
+    left: "© 2026 Jakob Kasper"
+    right: "Made with [Quarto](https://quarto.org)"
 
 format:
   html:
     theme: default
     css: style.css
     toc: false
+    # "custom" removes Quarto's three-column page grid. The old CSS turned that
+    # grid into a card and then centred main inside it with auto margins, which
+    # made main shrink to the width of its content (an iframe is only ~300px
+    # wide by default) — hence the very narrow CV column.
+    page-layout: custom
+    lang: en
