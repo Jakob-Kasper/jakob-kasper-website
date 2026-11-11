@@ -46,3 +46,7 @@ format:
     # wide by default) — hence the very narrow CV column.
     page-layout: custom
     lang: en
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://website-jakob-kasper.goatcounter.com/count"
+                  async src="//gc.zgo.at/count.js"></script>
