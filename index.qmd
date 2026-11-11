@@ -6,14 +6,14 @@ pagetitle: "Jakob Kasper"
 ::: {.hero}
 # Jakob Kasper
 
-[PhD researcher in political psychology, University of Amsterdam]{.lede}
+[Political Psychology · Political Behavior · Affective Polarization]{.lede}
 :::
 
 <img src="jakob.jpg" class="headshot" alt="Portrait of Jakob Kasper"/>
 
-I am a **PhD candidate** at the [University of Amsterdam](https://www.uva.nl/profiel/k/a/j.kasper/j.kasper.html) (Amsterdam School of Communication Research). My PhD is part of the MSCA doctoral network [Interdisciplinary Perspectives on the Politics of Adolescence and Democracy](https://www.ippad.eu/) (IP-PAD), and I am affiliated with the [Hot Politics Lab](https://www.hotpolitics.eu/) and the [Center for Politics and Communication](https://www.polcomm.org/about-2/).
+I am an incoming **Post-Doctoral Research Fellow** at the [Centre for the Politics of Feelings](https://www.politics-of-feelings.com/), University of London, and am affiliated with the [Hot Politics Lab](https://www.hotpolitics.eu/). I am completing my **PhD** at the University of Amsterdam (Amsterdam School of Communication Research) as part of the MSCA doctoral network [Interdisciplinary Perspectives on the Politics of Adolescence and Democracy](https://www.ippad.eu/) (IP-PAD).
 
-My research focuses mainly on **affective polarization**. I explore how it can be measured within **multiparty systems**, and I aim to connect political science's understanding of affective polarization with psychological **theories of affect**, refining both theoretical frameworks and measurement tools to better capture its affective nature. I also investigate how affective polarization develops during **adolescence**, seeking to understand its origins and to address concerns about increasing polarization among younger generations. Moreover, I am interested in the implications of (affective) polarization for **political behavior and democratic attitudes**, as well as efforts to reduce it.  
+I study **political cognition and behavior**, with a particular focus on **affective polarization**: how to conceptualize and measure it, how it develops from **adolescence** onward, when it becomes a problem for **democracy**, and how to address it when it does. More broadly, I am interested in how **group identities and emotions** shape citizens' political judgments and information sharing, and what consequences this has for the political systems we live in. My work integrates perspectives from psychology and political science, combining measurement validation with large-scale survey experiments and intervention designs.
 
 Before my PhD, I earned a Bachelor's and Master's degree in Psychology at the University of Heidelberg (Germany) and spent a year as a graduate exchange student at Cornell University (USA).
 
